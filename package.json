@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Mastergamer433/spotify-cli/issues"
   },
-  "homepage": "https://github.com/Mastergamer433/spotify-cli#readme"
+  "homepage": "https://github.com/Mastergamer433/spotify-cli#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
 }
