@@ -1,0 +1,29 @@
+{
+  "name": "spotifycli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mastergamer433/spotify-cli.git"
+  },
+  "keywords": [
+    "Cli",
+    "cli",
+    "spotify",
+    "Spotify",
+    "SpotifyCli",
+    "spotifycli",
+    "spotifyCli",
+    "Spotifycli"
+  ],
+  "author": "Mastergamer433",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Mastergamer433/spotify-cli/issues"
+  },
+  "homepage": "https://github.com/Mastergamer433/spotify-cli#readme"
+}
